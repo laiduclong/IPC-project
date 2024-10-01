@@ -1,0 +1,3 @@
+[submodule "backendDjango"]
+	path = backendDjango
+	url = https://github.com/laiduclong/backendDjango.git
